@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "environment-marker-safari Extension",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+	"message": "A Safari extension that helps you visually distinguish between different environments (development, staging, production) by displaying customizable markers on your web pages.",
+        "description": "Description of what the extension does."
+    }
+}
